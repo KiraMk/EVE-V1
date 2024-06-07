@@ -1,0 +1,52 @@
+#eveWhite{
+  width: 150px;
+}
+#buttom{
+  border-radius: 30px;
+}
+.bolinea{
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+.sobre{
+  background-color: lightgrey;
+}
+.equipe{
+  height: 200px;
+  padding-top: 15px;
+  border-radius: 30px;
+}
+.preco{
+  padding-top: 10px;
+  border-radius: 30px;
+}
+.bluegreen{
+  background-color: rgb(0, 119, 113);
+  color: white;
+}
+.mensagem{
+  border-radius: 30px;
+}
+.branco{
+  margin-bottom: 20px;
+  border-radius: 30px;
+  background-color: white ;  
+  text-align: center;
+  color: black;
+}
+.form{
+  color: black;
+}
+.footerHeigth{
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 150px;
+}
+.eveBlack{
+  width: 17%;
+}
